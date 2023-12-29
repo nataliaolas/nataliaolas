@@ -1,7 +1,22 @@
 ### Hi there, I'm Natalia 👋
+- 👨‍🎓 Master of Science in Computer Science.
+- 📕 My hobby is Big Data, Cybersecurity and Psychology.
 
-- 🌱 I’m currently learning more about Python, DAX, SQL and R.
-- 👨‍🎓 I’m Data Analyst and graduated M.S. Computer Science.
-- 🌸 My hobby is Data Analysis and Psychology.
-- 📕 In free time I like reading books.
-- 📫 You can reach me also on [Behance](https://www.behance.net/nataliaolas "Behance") where I post mockups in my free time and [Linkedin](https://www.linkedin.com/in/nataliaolas/ "Linkedin"). 
+### Technologies:
+* Python
+* SQL
+* PowerBI
+* R
+* Excel
+* Google Cloud Platform
+* Microsoft Azure
+* MongoDB
+* Redis
+* Neo4J
+
+
+### Courses:
+* Insights from Data with BigQuery - Google
+* Introduction to Data Analytics on Google Cloud - Google
+* Business Intelligence - Santander Scholarships
+* Dare IT Portfolio Challange: User Experience Design 
